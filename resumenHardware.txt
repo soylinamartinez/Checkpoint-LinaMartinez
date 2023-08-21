@@ -1,0 +1,5 @@
+Memorias principales
+
+1. caché
+2. RAM
+3. ROM

@@ -1,0 +1,26 @@
+146  git init
+  147  git config user.name "soylinamartinez"
+  148  git config user.email "limarsa07@gmail.com"
+  149  git remote add origin https://github.com/soylinamartinez/Checkpoint-LinaMartinez.git
+  150  git remote -v
+  151  touch main.js index.html
+  152  ls
+  153  git add .
+  154  git commit -m "primer commit"
+  155  git push origin main
+  156  git branch feature
+  157  git checkout feature
+  158  mkdir Hardware Software SeguridadInformatica
+  159  touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+  160  ls
+  161  ls -R
+  162  git status
+  163  git add .
+  164  git commit -m "commit branch"
+  165  git status
+  166  git push origin feature
+  167  git checkout main
+  168  mv main.js resumenHardware.txt
+  169  ls
+  170  mv index.html resumenSoftware.txt
+  171  touch comandos.txt 
